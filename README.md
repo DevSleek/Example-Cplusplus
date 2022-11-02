@@ -2,7 +2,7 @@
 
 Qudrat Abdurahimov masalalari
 
-1. + operatorini yulash
+1. Plus operatorini yulash
 2. char
 3. massiv
 4. matritsa
